@@ -1,3 +1,3 @@
 # Browser Snake
 
-An in-browser snake game, serving as an introduction to HTML and JavaScript.
+An in-browser snake game I made to introduce an intern to HTML and JavaScript.
